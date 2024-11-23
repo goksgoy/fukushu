@@ -1,7 +1,29 @@
 // Vocabulary List: You can add more words and meanings
 const vocabulary = [
     // Minggu 1
-    { word: "有料", meaning: "ゆうりょう" },
+    { word: "作文", meaning: "僕の作文を見ていただけますか" },
+    { word: "近所", meaning: "近所で火事があった" }, { word: "大使館", meaning: "インドネシア大使館はどこですか" }, 
+    { word: "運転手", meaning: "運転者はベルトを締めるべきだ" }, { word: "低い", meaning: "気温が低いと水は氷になる" }, 
+    { word: "短い", meaning: "短い髪が似合ってます" }, { word: "遠い", meaning: "ここから海までどのくらい遠いのでしょうか" }, 
+    { word: "悪い", meaning: "悪いことだと思うか" }, { word: "暗い", meaning: "暗い部屋で何を探していますか" }, 
+    { word: "遠足", meaning: "遠足は雨のため中止になった" }, { word: "去年", meaning: "去年の冬は非常に寒かった" }, 
+    { word: "写す", meaning: "このページをノートに写しておきなさい" }, { word: "真ん中", meaning: "どうして5円玉と50円玉の真ん中に穴が空いているの" }, 
+    { word: "写真", meaning: "ここで写真を撮らないで下さい" }, { word: "両方", meaning: "両方とも、日本語が分かりますか" }, 
+    { word: "主人", meaning: "ご主人によろしくお伝えて下さい" }, { word: "旅館", meaning: "彼女はその旅館に部屋を予約してくれた" }, 
+    { word: "店員", meaning: "スーパーに行くたびに店員さんと話します" }, { word: "国民", meaning: "日本人はよく働く国民だと思う" }, 
+    { word: "学者", meaning: "将来科学者になりたい" }, { word: "歌う", meaning: "さあ歌を歌いましょう" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
+    { word: "", meaning: "" }, { word: "", meaning: "" }, 
 ];
   
   let currentVocabulary = {};
